@@ -1,4 +1,4 @@
-# Neo-PasswordGen
+# OpenPassGen
 ----------------------------------
 OpenPassGen is a fork of PassGen by https://github.com/LyubomirT
 
