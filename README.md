@@ -1,20 +1,20 @@
-# OpenPassGen
+# OpenWebTools
 ----------------------------------
-OpenPassGen is a fork of PassGen by https://github.com/LyubomirT
+OpenWebTools is a collection of simple tools by https://github.com/IUseDebianBtw 
 
-As you can tell this is a password generator written in pure html. 
+the original code is by https://github.com/LyubomirT
+
+most of these will be rewrites of LyubomirT code as they are open on replit 
+(exception of OpenPassGen check documentation for more info)
 
 -----------------
-### why fork? 
-Passgen is in a private repo with the MIT license. Because of this Iusedebianbtw(netrunner) forked this project and added dark mode :).
+### why rewrite? 
 
------------------
+The source code was not on GitHub or licensed but was open. 
 
-|  Features  |
-| ------- |
-| Numbers |
-|   Letters (a-z, A-Z)  |
-| Special Characters |
+These tools should have been on GitHub and licensed after requests from me (iusedebianbtw) to LyubomirT. 
+
+He kept it in a private repo, so we forked and rewrote it.
 
 -----------------
 ### LICENSE
